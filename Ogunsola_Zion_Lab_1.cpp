@@ -21,7 +21,7 @@ int main()// function
 
 
 
-return 0; //ends the function
+return 0; //this returns the function main
 }
 /*
 ############################################################
